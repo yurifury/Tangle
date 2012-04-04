@@ -16,6 +16,14 @@
 	cursor: col-resize;
 }
 
+.TKCursorDragHorizontalMax {
+	cursor: w-resize;
+}
+
+.TKCursorDragHorizontalMin {
+	cursor: e-resize;
+}
+
 
 /* TKToggle */
 
